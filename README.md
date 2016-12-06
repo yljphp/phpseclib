@@ -1,4 +1,4 @@
-# phpseclib - PHP Secure Communications Library
+# Phpseclib - PHP Secure Communications Library
 
 [![Build Status](https://secure.travis-ci.org/phpseclib/phpseclib.png?branch=master)](http://travis-ci.org/phpseclib/phpseclib)
 
